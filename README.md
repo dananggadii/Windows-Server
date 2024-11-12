@@ -27,24 +27,23 @@
 ### 9. Set up the network interface.
 ![image](https://github.com/user-attachments/assets/af66bcae-43e2-4e64-9360-a708b8f7e4a6)
 
-### 10. For Windows Server login, configure a password > click the Terminal icon.
 ![image](https://github.com/user-attachments/assets/a42509fc-4df9-44c7-8458-80a685bc2226)
+
+### 10. For Windows Server login, configure a password > click the Terminal icon.
+![image](https://github.com/user-attachments/assets/4699c6f0-8761-4188-9453-106b5ff5fa65)
 
 ### 11. Run the following command, replacing [name_instance] and [username]:
 ```
 gcloud compute reset-windows-password [name_instance] --zone us-central1-c --user [username]
 ```
-![image](https://github.com/user-attachments/assets/4699c6f0-8761-4188-9453-106b5ff5fa65)
-
-### 12. Return to the instance page > click "RDP" to connect to the Windows Server.
 ![image](https://github.com/user-attachments/assets/4e83a2be-113a-45b1-a89b-6b66746e06fa)
 
-### 13. Download the RDP file.
+### 12. Return to the instance page > click "RDP" to connect to the Windows Server.
 ![image](https://github.com/user-attachments/assets/353c14df-4892-4f2e-b0ff-17241273e657)
 
-### 14. Enter port 3389 (RDP port) after the IP > check "Allow" > click "Connect".
+### 13. Download the RDP file.
 ![image](https://github.com/user-attachments/assets/1a136b34-fd90-4ea0-b6f1-34b078733f98)
 
-### 15. 
+### 14. Enter port 3389 (RDP port) after the IP > check "Allow" > click "Connect".
 ![image](https://github.com/user-attachments/assets/526133e4-7419-43c3-9027-44b54699c681)
 
