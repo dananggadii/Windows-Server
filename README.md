@@ -1,6 +1,6 @@
 # Setup Windows Server on Google Cloud
 
-## Click the navigation menu in the top-left corner.
+### 1. Click the navigation menu in the top-left corner.
 ![image](https://github.com/user-attachments/assets/67d6a8ae-24e1-4f1e-aea1-0fcd58b54c5f)
 
 ![image](https://github.com/user-attachments/assets/143d3e5f-9d7f-48be-b88e-9e9f3837471f)
